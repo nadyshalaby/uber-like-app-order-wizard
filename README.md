@@ -7,7 +7,7 @@ This project is a starting point for a Flutter Uber-Like Application.
 
 A few resources to get you started:
 
-- [Pt. 1](https://www.youtube.com/watch?v=xkx_V5_-djE)
+- [Pt. 1](https://www.youtube.com/watch?v=oyhhSbaogzE)
 - [Pt. 2](https://www.youtube.com/watch?v=xkx_V5_-djE)
 
 For help getting started with Flutter, view our
